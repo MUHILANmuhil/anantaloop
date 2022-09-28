@@ -1,0 +1,15 @@
+.Body{
+    margin-left: 13rem;
+}
+.cardHolder{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 1rem;
+    padding-top: 2rem;
+}
+.vendorInHolder{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem;
+}

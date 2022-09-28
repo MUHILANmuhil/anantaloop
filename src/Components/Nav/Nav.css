@@ -1,0 +1,20 @@
+.navHeader{
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    background-color: #551a8b;
+    color: aliceblue;
+    width: 13rem;
+}
+
+ul li {
+    margin:1rem;
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+li p{
+    margin-left: .5rem;
+}

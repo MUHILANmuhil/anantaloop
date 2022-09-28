@@ -1,0 +1,38 @@
+/* Cards */
+.Cards{
+    width:15rem;
+    height:10rem;
+    border:1px solid black;
+    padding:1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+/* Price Card */
+
+.titleHeader{
+    display: flex;
+    justify-content: space-between;
+}
+.rcDetails{
+    display: flex;
+    align-items: center;
+}
+.upArrow{
+    color:#51c21a;
+}
+.downArrow{
+    color:#ff4d4f;
+}
+.cardFooter{
+    border-top: 1px solid rgba(150, 150, 150,0.5);
+}
+.Charts{
+    width:100%;
+    height:100%;
+}
+/* Visit Card */
+.chart{
+    width:12rem;
+    height:3rem;
+}
